@@ -1,9 +1,11 @@
-{
-  "ic_moon": "https://s32.picofile.com/file/8477494176/moon.png",
-  "ic_stream": "https://s32.picofile.com/file/8477494192/stream.png",
-  "ic_meri": "https://s32.picofile.com/file/8477494234/mater.png",
-  "ic_reno": "https://s32.picofile.com/file/8477494242/cami.png",
-  "ic_volc": "https://s32.picofile.com/file/8477494218/volooo.png",
-  "ic_dawn": "https://s32.picofile.com/file/8477494250/dawn.png",
-  "ic_fiora": "https://s32.picofile.com/file/8477494276/fiora.png"
-}
+[
+  {
+    "ic_moon": "https://s32.picofile.com/file/8477494176/moon.png",
+    "ic_stream": "https://s32.picofile.com/file/8477494192/stream.png",
+    "ic_meri": "https://s32.picofile.com/file/8477494234/mater.png",
+    "ic_reno": "https://s32.picofile.com/file/8477494242/cami.png",
+    "ic_volc": "https://s32.picofile.com/file/8477494218/volooo.png",
+    "ic_dawn": "https://s32.picofile.com/file/8477494250/dawn.png",
+    "ic_fiora": "https://s32.picofile.com/file/8477494276/fiora.png"
+  }
+]
