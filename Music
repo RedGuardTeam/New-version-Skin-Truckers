@@ -1,0 +1,17 @@
+[
+  {
+    "link_music": "https://example.com/song1.mp3",
+    "name_music": "Song One",
+    "category": "Pop"
+  },
+  {
+    "link_music": "https://example.com/song2.mp3",
+    "name_music": "Song Two",
+    "category": "Rock"
+  },
+  {
+    "link_music": "https://example.com/song3.mp3",
+    "name_music": "Song Three",
+    "category": "Jazz"
+  }
+]
