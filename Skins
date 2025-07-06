@@ -46,5 +46,21 @@
     "editor": "Parsa Editor",
     "meg": "2.28 MB",
     "link": "https://s32.picofile.com/file/8477438868/MoonTHX_Korosh.png"
+  },
+  {
+    "truck_img1": "https://s33.picofile.com/file/8485600668/artesh1.jpg",
+    "truck_img2": "https://s33.picofile.com/file/8485600684/artesh2.jpg",
+    "skin_name": "Moon THA",
+    "editor": "Mohammad MRPR",
+    "meg": "4.19 MB",
+    "link": "https://s33.picofile.com/file/8485600742/Moon_THA_Artesh.png"
+  },
+  {
+    "truck_img1": "https://s33.picofile.com/file/8485600700/korosh1kbir.jpg",
+    "truck_img2": "https://s33.picofile.com/file/8485600718/korosh2kbir.jpg",
+    "skin_name": "Moon THA",
+    "editor": "Mohammad MRPR",
+    "meg": "277.84 KB",
+    "link": "https://s33.picofile.com/file/8485600750/Moon_THA_Korosh.png"
   }
 ]
